@@ -1,4 +1,7 @@
 <html>
+<head>
+<title>Spring Rest</title>
+</head>
 <body>
 
 <h3>Spring CRM REST Demo</h3>
